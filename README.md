@@ -15,6 +15,5 @@ This project demonstrates the use of **LIME (Local Interpretable Model-agnostic 
    git clone https://github.com/your-username/LIME-Explainability-Breast-Cancer.git
    cd LIME-Explainability-Breast-Cancer
 
-pip install -r requirements.txt
-python src/explain_model.py
+
 
